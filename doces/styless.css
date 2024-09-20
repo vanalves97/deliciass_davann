@@ -1,0 +1,46 @@
+header{
+    background-color: rgb(152, 89, 160);
+    color: black;
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+    text-align: center;
+    margin-right: 15px;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    margin: 15px;
+    padding: 20px;
+    background-color: #f6d7fa;
+}
+
+li {
+    list-style-type: none;
+    /* padding: 0; */
+    padding: 0;
+    text-align: center;
+    display: inline;
+    margin-right: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(152, 89, 160);
+}
+
+h2 {
+    text-align: center;
+}
